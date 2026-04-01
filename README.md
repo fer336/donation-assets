@@ -10,7 +10,7 @@ Gracias por apoyar este proyecto. Tu aporte permite sostener el mantenimiento, m
 
 Escaneá el siguiente código QR para realizar una donación:
 
-![QR de donación](./1000081570.jpg)
+![QR de donación](https://raw.githubusercontent.com/fer336/donation-assets/main/assets/qr-donation.jpg)
 
 ## Donar con PayPal
 
@@ -52,7 +52,7 @@ Gracias por apoyar **[NOMBRE_DEL_PROYECTO]**. Tu aporte permite sostener el mant
 
 Escaneá el siguiente código QR para realizar una donación:
 
-![QR de donación](./[NOMBRE_DE_IMAGEN_QR].jpg)
+![QR de donación]([URL_RAW_QR])
 
 ## Donar con PayPal
 
